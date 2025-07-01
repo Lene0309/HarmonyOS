@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/TaskDetailPage",
+    "pages/Login",
+    "pages/Registry",
+    "pages/AddDefect"
+  ]
+}
